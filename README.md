@@ -1,0 +1,1 @@
+# Penelitian-jurnal-prediksi-pergerakan-saham-bumi-menggunakan-naive-bayes
