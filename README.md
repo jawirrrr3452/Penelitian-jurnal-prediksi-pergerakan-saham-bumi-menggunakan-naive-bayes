@@ -1,5 +1,4 @@
-# Prediksi Pergerakan Harga Saham PT Bumi Resources Tbk Menggunakan Naive Bayes untuk Meminimalisir Risiko
-
+# KLASIFIKASI PERGERAKAN HARGA SAHAM PT BUMI RESOURCES TBK MENGGUNAKAN DECISION TREE (J48) UNTUK MENDUKUNG INVESTASI
 ## Deskripsi
 Repositori ini berisi dataset dan hasil analisis menggunakan WEKA.
 ## Perangkat Lunak
@@ -16,7 +15,7 @@ Repositori ini berisi dataset dan hasil analisis menggunakan WEKA.
 3. Menghapus atribut Tanggal (Date) karena tidak digunakan sebagai atribut prediksi dalam proses klasifikasi.
 4. Memastikan atribut yang digunakan hanya atribut yang diperlukan, seperti Open, High, Low, Close, Volume, dan Label.
 5. Memilih tab Classify.
-6. Mengklik tombol Choose, kemudian memilih algoritma Bayes → NaiveBayes.
+6. Mengklik tombol Choose, kemudian memilih algoritma TREE (J48) .
 7. Pada bagian Test Options, memilih metode Percentage Split sebesar 80%, sehingga 80% data digunakan sebagai data pelatihan (training) dan 20% sebagai data pengujian (testing).
 8. Mengklik tombol Start untuk menjalankan proses klasifikasi.
 9. Menunggu hingga proses klasifikasi selesai dan hasil ditampilkan pada bagian Classifier Output.
@@ -35,7 +34,8 @@ Repositori ini berisi dataset dan hasil analisis menggunakan WEKA.
 ## Artikel Jurnal
 Artikel lengkap dapat diakses pada:
 **🔗 Link Jurnal:**  
-[]()
+[KLASIFIKASI PERGERAKAN HARGA SAHAM PT BUMI RESOURCES TBK MENGGUNAKAN DECISION TREE (J48) UNTUK MENDUKUNG INVESTASI](https://jurnal.mediaakademik.com/index.php/jma/article/view/7466)
+https://jurnal.mediaakademik.com/index.php/jma/article/view/7466
 
-**DOI:**  
+
 
