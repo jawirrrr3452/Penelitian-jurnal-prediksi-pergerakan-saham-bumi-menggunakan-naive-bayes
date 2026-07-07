@@ -35,7 +35,7 @@ Repositori ini berisi dataset dan hasil analisis menggunakan WEKA.
 ## Artikel Jurnal
 Artikel lengkap dapat diakses pada:
 **🔗 Link Jurnal:**  
-[Prediksi Pergerakan Harga Saham PT Bumi Resources Tbk Menggunakan Naive Bayes untuk Meminimalisir Risiko](https://journal.cib.institute/index.php/kohesi/article/view/651)
-https://journal.cib.institute/index.php/kohesi/article/view/651
+[]()
+
 **DOI:**  
-https://doi.org/10.5281/zenodo.21144241
+
